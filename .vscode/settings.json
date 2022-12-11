@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "es_configure.h": "c",
+        "es_types.h": "c",
+        "instructionservice.h": "c"
+    }
+}
